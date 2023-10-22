@@ -1,0 +1,24 @@
+
+CSCI100, Introduction to Computer Science
+Prerequisites: n/a
+
+CSCI101, Introduction to Programming in C++
+Prerequisites: CSCI100
+
+CSCI200, Data Structures
+Prerequisites: CSCI101
+
+CSCI300, Introduction to Algorithms
+Prerequisites: CSCI200
+
+CSCI301, Advanced Programming in C++
+Prerequisites: CSCI101
+
+CSCI350, Operating Systems
+Prerequisites: CSCI300
+
+CSCI400, Large Software Development
+Prerequisites: CSCI301, CSCI350
+
+MATH201, Discrete Mathematics
+Prerequisites: CSCI300, CSCI200
