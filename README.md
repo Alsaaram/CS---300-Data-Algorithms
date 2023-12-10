@@ -1,4 +1,4 @@
-# CS---300-Data-Algorithms
+# CS-300-Data-Algorithms
 
 What was the problem you were solving in the projects for this course?
 
